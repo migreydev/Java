@@ -1,7 +1,7 @@
 # Java
 
 # Boletines Java
-(![image](https://user-images.githubusercontent.com/49988347/214641263-6cffd8f8-efc7-44aa-bfb3-6047b6661cfd.png))
+![image](https://user-images.githubusercontent.com/49988347/214641263-6cffd8f8-efc7-44aa-bfb3-6047b6661cfd.png))
 
 # **1. Introduccion a Java**
 
