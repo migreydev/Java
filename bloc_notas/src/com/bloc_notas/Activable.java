@@ -1,0 +1,10 @@
+package com.bloc_notas;
+
+public interface Activable {
+	
+	
+	public void activar();
+	
+	public void desactivar();
+
+}
